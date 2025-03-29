@@ -1,4 +1,4 @@
-![Logo UNAHUR](./UNAHUR.png)
+![Logo UNAHUR](./Foto - Diaz Sebastian - CV.jpg)
 
 # Programación con objetos I
 ## Presentación Personal
